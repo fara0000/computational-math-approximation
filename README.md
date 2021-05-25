@@ -1,1 +1,3 @@
-# computational-math-approximation
+# se-compmaths-lab-1
+
+Первая лаба по вычмату, вариант 15 (метод простых итераций).
